@@ -1,0 +1,35 @@
+How diff help you otu to spot the bug?
+1. Because it shows us what section of the code was changed
+2. You have to rethink the solution you added in the sw
+3. This helps out with slight mistakes like typo,
+	puntuation, keywords and son
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+1. You would be efficient because you find the bugs faster
+2. Sometimes the business needs to return to old functionality
+   aso you can modify the sw quickly
+ 
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Pros:
+1. Save valuable changes of your code
+2. To be more thorough with your code, because you are responsible for the commits
+
+Cons:
+1. if you forget to commit the changes you could lose all your work
+2. This method could save wrong changes if you forget to correct then you will have errors in your version of code
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because the coding which you save in Git can involve different scripts at the same time, on the other hand, Google Docs save independent documents which is rare that are interelated each other
+
+How can you use the commands git log and git diff to view the history of files?
+
+Git log is useful to see the history of commits and get the whole IDs commits. Then, using git diff with the ID commits you can observe the differences of the coding.
+
+How might using version control make you more confident to make changes that could break something?
+
+Using git checkout I could revert the versions of my code until I get the working software
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to apply the differents commands I've learned such as git clone, git checkout and so on
