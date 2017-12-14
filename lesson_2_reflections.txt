@@ -11,3 +11,6 @@ R: Adding the elements which belongs to the logical change to staging area.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 R: When you want to try new solutions or have suited version which fulfill some details. Branches help you organizing your main work from differente versions of the software
+
+How do the diagrams help you visualize the branch structure?
+R: the diagrams show the structure of different branches of the project, with the parents and current commit.
