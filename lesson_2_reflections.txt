@@ -18,3 +18,19 @@ R: the diagrams show the structure of different branches of the project, with th
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 R: The result is that the changes of two branches are unified into ine branch merging the new code from the brances. The diagram helps to understand the parents
 of the branches, the history and possibles detached heads.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+R: Pros Automatic merging
+    1. you have no worries about conflict code
+    2. you are independent commiting your changes
+    
+    Cons Automatic merging
+    1. You have to organize the work with the colleagues for avoiding conflicts
+
+    Pros Manual merging
+    1. Special attention when there are conflicts with the code
+    2. you are not concerned about organize the work because git will warn you
+
+    Cons Manual merging
+    1. It is possible that your work have to be changed
+    2. It could be mistakes iif you are not carefull resolving the conflict
