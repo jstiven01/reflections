@@ -11,3 +11,7 @@ R: Forks means cloning github repository into another Github repository (No loca
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 R: The benefit is that you have a real version of the software with all the features. it could avoid problems of synch.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+R: I would collaborate splitting the work into different features, coding in a modular way. Everyone would have your own module. 
+   There no would be conflicts but it would be hard to centralize all the changes and synchonized with all the mates.
