@@ -15,3 +15,8 @@ R: The benefit is that you have a real version of the software with all the feat
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 R: I would collaborate splitting the work into different features, coding in a modular way. Everyone would have your own module. 
    There no would be conflicts but it would be hard to centralize all the changes and synchonized with all the mates.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+R : It's a healthy style to make changes in branches different of master because master has the "production code" so you have 
+    to be careful with the changes you are including. Instead, branches give yoe flexibility working in new features, experim
+    enting with new ideas without touch your "production" code
