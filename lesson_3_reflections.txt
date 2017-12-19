@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 R: Forks means cloning github repository into another Github repository (No local)
    Clones could work on local repository too
    Branches is the different paths that your code could take inside the local or github repository
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+R: The benefit is that you have a real version of the software with all the features. it could avoid problems of synch.
